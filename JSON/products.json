@@ -9,8 +9,8 @@
         "Instock": true,
         "features":["11.80 inches (30cm)","Made of plastic","Based on Marvel’s Spider-Man game","A newly developed masked head sculpt with spike Mohawk","Newly developed body with over 30 points of articulations"],
         "contents":["Spider-Man figure","Newly developed white, red and blue colored Spider-Punk suit","Blue denim vest with real-like pins and spikes on the back","Pair of red and white sneakers","Spider web effect accessory","Spider-Drone"],
-        "portrait_image":"/images/PunkSpidermanPortrait.png",
-        "landscape_image":"/images/PunkSpidermanAction.png",
+        "portrait_image":"/images/PunkSpidermanPortrait.jpg",
+        "landscape_image":"/images/PunkSpidermanAction.jpg",
         "square_image":"/images/PunkSpidermanSquare.png"
     },
     {
@@ -203,7 +203,7 @@
         "collections":["Marvel","Hot Toys"],
         "features":[""],
         "contents":[""],
-        "portrait_image":"//images/Buzz.png",
+        "portrait_image":"/images/Buzz.png",
         "landscape_image":"/images/PunkSpidermanAction.png",
         "square_image":"/images/PunkSpidermanSquare.png"
     }
