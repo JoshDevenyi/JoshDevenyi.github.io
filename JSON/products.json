@@ -66,7 +66,8 @@
         "price": 54.99,
         "Instock": true,
         "collections":["Power Rangers"],
-        "features":["7-inch scale (17.78cm)","Made of plastic","Based on the Mighty Morphin Power Rangers series","Incredibly detailed action figures with signature accessories","Comes in window box packaging with aRemovable Dragon Dagger holster","Pair of interchangeable arms (Dragon Shield)"],
+        "features":["7-inch scale (17.78cm)","Made of plastic","Based on the Mighty Morphin Power Rangers series","Incredibly detailed action figures with signature accessories","Comes in window box packaging with a collector's sleeve"],
+        "contents":["Red Ranger figure","3 Interchangeable heads","10 Interchangeable hands","2 Power Swords","4 Blade Blasters","Red Power Crystal","Open Power Morpher","Dragon Shield chest Armor","Dragon Dagger","Removable Dragon Dagger holster","Pair of interchangeable arms (Dragon Shield)"],
         "portrait_image":"/images/RedRanger.png",
         "landscape_image":"/images/RedRangerLandscape.png"
     },    
@@ -180,7 +181,7 @@
         "features":["7.87 inches (20cm)","1/7 Scale","Made of PVC","Based on The Legend of Zelda: Skyward Sword","Includes base"],
         "contents":["Link figure","Base"],
         "portrait_image":"/images/Link.png",
-        "landscape_image":"/images/PunkSpidermanAction.png"
+        "landscape_image":"/images/LinkLandscape.png"
     },
     {
         "id": 14,
