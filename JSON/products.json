@@ -41,7 +41,8 @@
         "features":["7.01 inches (17.8cm)","Made of ABS, PVC, POM, zinc alloy and die-cast metal parts","Officially licensed","48 Points of articulation","Part of the MDLX Small Scale Articulated Figures series"],
         "contents":["Optimus Prime figure","Ion Blaster","Energon Axe","Autobot Matrix of Leadership","5 Pairs of interchangeable hands"],
         "portrait_image":"/images/OptimusPrime.jpg",
-        "landscape_image":"/images/OptimusPrimeLandscape.jpg"
+        "landscape_image":"/images/OptimusPrimeLandscape.jpg",
+        "square_image":"/images/OptimusPrimeSquare.jpg"
     },
     {
         "id": 4,
@@ -55,7 +56,8 @@
         "features":["1/6 Scale","Made of plastic and fabric","Featuring Newly Sculpted Elements","New Lightsaber Blade","Hexagonal Figure Base","Hexagonal Figure Base","Finely Tailored Costume"],
         "contents":["Darth Vader figure","Lightsaber hilt without blade","Lightsaber hilt with attached blade","8 Interchangeable hands","Hexagonal shaped figure stand"],
         "portrait_image":"/images/DarthVader.png",
-        "landscape_image":"/images/DarthVaderLandscape.png"
+        "landscape_image":"/images/DarthVaderLandscape.png",
+        "square_image":"/images/DarthVaderSquare.png"
     },
     {
         "id": 5,
@@ -69,7 +71,8 @@
         "features":["7-inch scale (17.78cm)","Made of plastic","Based on the Mighty Morphin Power Rangers series","Incredibly detailed action figures with signature accessories","Comes in window box packaging with a collector's sleeve"],
         "contents":["Red Ranger figure","3 Interchangeable heads","10 Interchangeable hands","2 Power Swords","4 Blade Blasters","Red Power Crystal","Open Power Morpher","Dragon Shield chest Armor","Dragon Dagger","Removable Dragon Dagger holster","Pair of interchangeable arms (Dragon Shield)"],
         "portrait_image":"/images/RedRanger.png",
-        "landscape_image":"/images/RedRangerLandscape.png"
+        "landscape_image":"/images/RedRangerLandscape.png",
+        "square_image":"/images/RedRangerSquare.png"
     },    
     {
         "id": 6,
@@ -83,7 +86,8 @@
         "features":["11.02 inches (28cm)","Made of PVC","Based on the Batman: Hush comics","Includes Metal base printed with the bat logo"],
         "contents":["Batman statue","Base"],
         "portrait_image":"/images/Batman.png",
-        "landscape_image":"/images/BatmanLandscape.png"
+        "landscape_image":"/images/BatmanLandscape.png",
+        "square_image":"/images/BatmanSquare.png"
     },    
     {
         "id": 7,
@@ -97,7 +101,8 @@
         "features":["9 inches (22.86cm)","Made of PVC","From Luigi's Mansion 3 ","Highly detailed"],
         "contents":["Luigi Statue"],
         "portrait_image":"/images/Luigi.png",
-        "landscape_image":"/images/LuigiLandscape.png"
+        "landscape_image":"/images/LuigiLandscape.png",
+        "square_image":"/images/LuigiSquare.png"
     },    
     {
         "id": 8,
@@ -111,7 +116,8 @@
         "features":["5.9 inches (15cm)","1/12 scale","From the Marvel series","Featuring Wolverine as an articulated figure","Includes 2 heads, 6 hands, weapons, accessories, fabric clothing, and stand with a themed-base","Comes in deluxe collector-friendly packaging"],
         "contents":["One:12 Collective Wolverine figure","2 head sculpts","6 interchangeable hands","Costume","Muramasa katana","Stand with logo base"],
         "portrait_image":"/images/Wolverine.png",
-        "landscape_image":"/images/WolverineLandscape.png"
+        "landscape_image":"/images/WolverineLandscape.png",
+        "square_image":"/images/WolverineSquare.png"
     },    
     {
         "id": 9,
@@ -125,7 +131,8 @@
         "features":["7-inch scale (17.78cm)","Made of plastic","Part of the Ultimates figure line","Includes a variety of accessories"],
         "contents":["Raphael figure","2 Interchangeable heads","10 Interchangeable hands","2 Spy Sais","2 Ninja stars","Night vision goggles","Private eye pistol","Super sensitive eavesdroppin' dish","TV Camera","Tripod","Meat lovers pizza slice","Soft goods trench coat","Surveillance spy case with stickers"],
         "portrait_image":"/images/NinjaTurtle.png",
-        "landscape_image":"/images/NinjaTurtleLandscape.png"
+        "landscape_image":"/images/NinjaTurtleLandscape.png",
+        "square_image":"/images/NinjaTurtleSquare.png"
     },  
     {
         "id": 10,
@@ -139,7 +146,8 @@
         "features":["10.60 inches (27cm)","Made of plastic","From Final Fantasy VII Remake","Updated sculpt on the face","Based on the in-game 3D model"],
         "contents":["Cloud Strife figure","8 Hands","Buster Sword","Stand","Joint"],
         "portrait_image":"/images/Cloud.png",
-        "landscape_image":"/images/CloudLandscape.png"
+        "landscape_image":"/images/CloudLandscape.png",
+        "square_image":"/images/CloudSquare.png"
     },    
     {
         "id": 11,
@@ -153,7 +161,8 @@
         "features":["6.30 inches (16cm)","Made of plastic","Authentic and detailed likeness of Rocket from Avengers: Endgame","Newly developed specialized body with over 20 points of articulation","Newly painted roaring expression head sculpt"],
         "contents":["Rocket figure","5 Pieces of interchangeable gloved hands","Grayish blue space suit","Utility belt with pouches","Burgundy colored scarf","Burgundy colored fabric scarf","Pair of grayish blue colored boots","2 Pistols","2 Blasters","Nano Gauntlet","Pair of goggles","Aether extraction"],
         "portrait_image":"/images/RocketRaccoon.png",
-        "landscape_image":"/images/RocketRaccoonLandscape.png"
+        "landscape_image":"/images/RocketRaccoonLandscape.png",
+        "square_image":"/images/RocketRaccoonSquare.png"
     },
     {
         "id": 12,
@@ -165,9 +174,10 @@
         "Instock": true,
         "collections":["Good Smile","Horizon Zero Dawn"],
         "features":["3.9 inches (10cm)","Made of plastic","Based on the Horizon Forbidden West video game","Part of the Nendoroid lineup"],
-        "contents":["Aloy figure", "3 Face plates","Spear","Bow and arrow","Focus effect part","Watcher mini figure",""],
+        "contents":["Aloy figure", "3 Face plates","Spear","Bow and arrow","Focus effect part","Watcher mini figure","Base"],
         "portrait_image":"/images/Aloy.png",
-        "landscape_image":"/images/AloyLandscape.png"
+        "landscape_image":"/images/AloyLandscape.png",
+        "square_image":"/images/AloySquare.png"
     },
     {
         "id": 13,
@@ -181,7 +191,8 @@
         "features":["7.87 inches (20cm)","1/7 Scale","Made of PVC","Based on The Legend of Zelda: Skyward Sword","Includes base"],
         "contents":["Link figure","Base"],
         "portrait_image":"/images/Link.png",
-        "landscape_image":"/images/LinkLandscape.png"
+        "landscape_image":"/images/LinkLandscape.png",
+        "square_image":"/images/LinkSquare.png"
     },
     {
         "id": 14,
@@ -195,6 +206,7 @@
         "features":["4.92 inches (12.5cm)","Made of PVC and ABS","From the Toy Story animated movies","Part of the Legacy of Revoltech series","Features 19 points of articulation, facial expressions, wing parts, and other toy accessories"],
         "contents":["Buzz Lightyear figure","4 Face plates","2 Wing parts","Squeeze Toy Alien figure","3 Green Army Men figures","Name plate"],
         "portrait_image":"/images/Buzz.png",
-        "landscape_image":"/images/BuzzLandscape.png"
+        "landscape_image":"/images/BuzzLandscape.png",
+        "square_image":"/images/BuzzSquare.png"
     }
 ]
